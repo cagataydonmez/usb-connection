@@ -1,2 +1,2 @@
-# usb-connection
-Dede Korkut Pedal
+# USB Connection w/HID
+USB Connection using HID Class
